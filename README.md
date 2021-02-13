@@ -20,5 +20,6 @@ give you and example:
 
 ![alt text](https://github.com/esmerin/inbetween_colorization/blob/main/paper/images/final%20images/figure%201.png)
 
-
+another example: 1)lineart 2)input from blue chanel greyscale 3)output bluechannel 4)after merge output greenchanel and output greenchanel 5) original frames we want to emulate 
+![alt text](https://github.com/esmerin/inbetween_colorization/blob/main/paper/images/final%20images/figure%203.png)
 

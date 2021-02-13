@@ -8,3 +8,5 @@ as input it takes a especial format of image, where in the channel RED is a keyf
 green channel should be the line art or douga! 
 
 if you want to see what this can do look at https://drive.google.com/drive/folders/1PfLBpxPzkipXkPuRJZISHBfmKKFxQPc9?usp=sharing to look at it 
+
+paper/images/color/S01E07-She Attacks-Scene-354_211803.png

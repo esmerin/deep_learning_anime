@@ -18,42 +18,7 @@ first of all you need shots of animations, to do so, i use pyscenedetect, after 
 now you have the shots, to generate the gengas i use sketchkeras, now with transfor_to_grey_folder_to_other() transform the folder into greyscale, with copy_grey_no_key() extract the ground truth we use this later. with the gengas generated and the shots in greyscale, use the function transform_2_key_frames_1_line_art_to_image_folder() this creates the data type this net use. and now you are ready to use the net! 
 give you and example:
 
-#color shot from sakuraso no pet na kanojo 
-![alt text](https://github.com/esmerin/inbetween_colorization/blob/main/paper/images/color/S01E07-She%20Attacks-Scene-354_211803.png)
-![alt text](https://github.com/esmerin/inbetween_colorization/blob/main/paper/images/color/S01E07-She%20Attacks-Scene-354_211804.png)
-![alt text](https://github.com/esmerin/inbetween_colorization/blob/main/paper/images/color/S01E07-She%20Attacks-Scene-354_211805.png)
-![alt text](https://github.com/esmerin/inbetween_colorization/blob/main/paper/images/color/S01E07-She%20Attacks-Scene-354_211806.png)
-![alt text](https://github.com/esmerin/inbetween_colorization/blob/main/paper/images/color/S01E07-She%20Attacks-Scene-354_211807.png)
-![alt text](https://github.com/esmerin/inbetween_colorization/blob/main/paper/images/color/S01E07-She%20Attacks-Scene-354_211808.png)
-![alt text](https://github.com/esmerin/inbetween_colorization/blob/main/paper/images/color/S01E07-She%20Attacks-Scene-354_211809.png)
-![alt text](https://github.com/esmerin/inbetween_colorization/blob/main/paper/images/color/S01E07-She%20Attacks-Scene-354_211810.png)
-#grey 
-![alt text](https://github.com/esmerin/inbetween_colorization/blob/main/paper/images/grey/S01E07-She%20Attacks-Scene-354_211803.png)
-![alt text](https://github.com/esmerin/inbetween_colorization/blob/main/paper/images/grey/S01E07-She%20Attacks-Scene-354_211804.png)
-![alt text](https://github.com/esmerin/inbetween_colorization/blob/main/paper/images/grey/S01E07-She%20Attacks-Scene-354_211805.png)
-![alt text](https://github.com/esmerin/inbetween_colorization/blob/main/paper/images/grey/S01E07-She%20Attacks-Scene-354_211806.png)
-![alt text](https://github.com/esmerin/inbetween_colorization/blob/main/paper/images/grey/S01E07-She%20Attacks-Scene-354_211807.png)
-![alt text](https://github.com/esmerin/inbetween_colorization/blob/main/paper/images/grey/S01E07-She%20Attacks-Scene-354_211808.png)
-![alt text](https://github.com/esmerin/inbetween_colorization/blob/main/paper/images/grey/S01E07-She%20Attacks-Scene-354_211809.png)
-![alt text](https://github.com/esmerin/inbetween_colorization/blob/main/paper/images/grey/S01E07-She%20Attacks-Scene-354_211810.png)
-#sketch in sketchkeras
-![alt text](https://github.com/esmerin/inbetween_colorization/blob/main/paper/images/line art/S01E07-She%20Attacks-Scene-354_211803.png)
-![alt text](https://github.com/esmerin/inbetween_colorization/blob/main/paper/images/line art/S01E07-She%20Attacks-Scene-354_211804.png)
-![alt text](https://github.com/esmerin/inbetween_colorization/blob/main/paper/images/line art/S01E07-She%20Attacks-Scene-354_211805.png)
-![alt text](https://github.com/esmerin/inbetween_colorization/blob/main/paper/images/line art/S01E07-She%20Attacks-Scene-354_211806.png)
-![alt text](https://github.com/esmerin/inbetween_colorization/blob/main/paper/images/line art/S01E07-She%20Attacks-Scene-354_211807.png)
-![alt text](https://github.com/esmerin/inbetween_colorization/blob/main/paper/images/line art/S01E07-She%20Attacks-Scene-354_211808.png)
-![alt text](https://github.com/esmerin/inbetween_colorization/blob/main/paper/images/line art/S01E07-She%20Attacks-Scene-354_211809.png)
-![alt text](https://github.com/esmerin/inbetween_colorization/blob/main/paper/images/line art/S01E07-She%20Attacks-Scene-354_211810.png)
-#input data 
-![alt text](https://github.com/esmerin/inbetween_colorization/blob/main/paper/images/input/S01E07-She%20Attacks-Scene-354_211803.png)
-![alt text](https://github.com/esmerin/inbetween_colorization/blob/main/paper/images/input/S01E07-She%20Attacks-Scene-354_211804.png)
-![alt text](https://github.com/esmerin/inbetween_colorization/blob/main/paper/images/input/S01E07-She%20Attacks-Scene-354_211805.png)
-![alt text](https://github.com/esmerin/inbetween_colorization/blob/main/paper/images/input/S01E07-She%20Attacks-Scene-354_211806.png)
-![alt text](https://github.com/esmerin/inbetween_colorization/blob/main/paper/images/input/S01E07-She%20Attacks-Scene-354_211807.png)
-![alt text](https://github.com/esmerin/inbetween_colorization/blob/main/paper/images/input/S01E07-She%20Attacks-Scene-354_211808.png)
-![alt text](https://github.com/esmerin/inbetween_colorization/blob/main/paper/images/input/S01E07-She%20Attacks-Scene-354_211809.png)
-![alt text](https://github.com/esmerin/inbetween_colorization/blob/main/paper/images/input/S01E07-She%20Attacks-Scene-354_211810.png)
+![alt text](https://github.com/esmerin/inbetween_colorization/blob/main/paper/images/final%20images/figure%201.png)
 
 
 

@@ -9,4 +9,4 @@ green channel should be the line art or douga!
 
 if you want to see what this can do look at https://drive.google.com/drive/folders/1PfLBpxPzkipXkPuRJZISHBfmKKFxQPc9?usp=sharing to look at it 
 
-![keyframe] (paper/images/color/S01E07-She Attacks-Scene-354_211803.png)
+![alt text](paper/images/color/S01E07-She Attacks-Scene-354_211803.png)

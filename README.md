@@ -23,5 +23,5 @@ give you and example:
 another example: 1)lineart 2)input from blue chanel greyscale 3)output bluechannel 4)after merge output greenchanel and output greenchanel 5) original frames we want to emulate 
 ![alt text](https://github.com/esmerin/inbetween_colorization/blob/main/paper/images/final%20images/figure%203.png)
 
-to an easier tutorial i am making a youtube tutorial: 
+to an easier tutorial i made a youtube tutorial: https://youtu.be/8-YIrqm3aCs
 
